@@ -6,6 +6,14 @@ This is an e-commerce website, similar to Amazon, with tests added for functiona
 
 Some URLs in test files are hardcoded due to time constraints, and I encountered some errors but I fixed them. I made it as quickly as I could.
 
+## video demo of the tests.
+
+
+
+https://github.com/user-attachments/assets/1dbc883e-22a5-445e-befa-fe93b7681599
+
+
+
 ## Project Setup
 
 ### 1. Install Dependencies
