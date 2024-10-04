@@ -86,7 +86,3 @@ Then("User should be redirected to cart page", () => { cy.url().should("eq", "ht
 Then("User should be redirected to home page", () => { cy.url().should("eq", "http://192.168.1.4:5173/"); });
 
 Then("User should be redirected to home page signout", () => { cy.url().should("eq", "http://192.168.1.4:5173/#signout")});
-
-### Important Note
-
-You must update all test URLs in the Cypress files to match the URL shown in your network (e.g., `http://192.168.1.4:5173/`) before running the tests.
